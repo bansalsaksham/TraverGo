@@ -102,11 +102,11 @@ transformers==4.35.2
 
 ## Challenges We Faced
 
-- **Learning the Framework** — Getting up to speed with LangChain's abstractions and chaining patterns from scratch.
-- **Qdrant Pipeline** — Building a robust ingestion and vector search pipeline for hotel data with proper embedding alignment.
-- **Streamlit Session State** — Managing multi-step conversational state across Streamlit reruns without losing context.
-- **Ares API + OpenAI Integration** — Wiring the Traversaal Ares real-time search tool into the OpenAI chatbot as a callable function without breaking the conversation flow.
-- **Chatbot Model** — Tuning the chatbot to stay grounded in hotel-specific context while still being able to answer general travel questions.
+- **Learning the Framework** - Getting up to speed with LangChain's abstractions and chaining patterns from scratch.
+- **Qdrant Pipeline** - Building a robust ingestion and vector search pipeline for hotel data with proper embedding alignment.
+- **Streamlit Session State** - Managing multi-step conversational state across Streamlit reruns without losing context.
+- **Ares API + OpenAI Integration** - Wiring the Traversaal Ares real-time search tool into the OpenAI chatbot as a callable function without breaking the conversation flow.
+- **Chatbot Model** - Tuning the chatbot to stay grounded in hotel-specific context while still being able to answer general travel questions.
 
 ---
 
